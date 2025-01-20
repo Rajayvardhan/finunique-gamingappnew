@@ -3,7 +3,7 @@ import React from 'react';
 export const Privacy: React.FC = () => {
     return (
         <>
-            <div className='privacypolicy_section' style={{ backgroundImage: "url('./public/images/card-bg.webp')", backgroundSize: "cover", backgroundPosition: "center", alignContent: "center", backgroundAttachment: "fixed" }}>
+            <div className='privacypolicy_section' style={{ backgroundImage: "url('./images/card-bg.webp')", backgroundSize: "cover", backgroundPosition: "center", alignContent: "center", backgroundAttachment: "fixed" }}>
                 <div className='container'>
                     <div className='row pt-3'>
                         <div className='col-md-12 align-self-center'>
@@ -30,7 +30,7 @@ export const Privacy: React.FC = () => {
                     </div>
                 </div>
                 <div className="clearfix mt-5">
-                    <img src="./public/images/trem.jpg" className="img-fluid col-md-6 float-md-end mb-3 ms-md-3" alt="policy img" />
+                    <img src="./images/trem.jpg" className="img-fluid col-md-6 float-md-end mb-3 ms-md-3" alt="policy img" />
                     <h2 className='my-3'>Information We Collect</h2>
                     <ul className='ps-3'>
                         <li style={{ listStyleType: "circle" }}><p className='mb-0 mt-1'> Personal identification information</p></li>

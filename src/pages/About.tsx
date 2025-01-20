@@ -16,13 +16,13 @@ export const About: React.FC = () => {
 
           >
 
-            <img src='./public/images/poker-coin.png' className='img-fluid bg-coins-1' />
+            <img src='./images/poker-coin.png' className='img-fluid bg-coins-1' />
 
           </SimpleParallax>
           <div className="row">
             <div className="col-md-12">
               <div className="clearfix">
-                <img src="./public/images/card-bg.webp" className="img-fluid col-md-6 float-md-end mb-3 ms-md-3 img-width" alt="policy img" />
+                <img src="./images/card-bg.webp" className="img-fluid col-md-6 float-md-end mb-3 ms-md-3 img-width" alt="policy img" />
                 <h2 className='my-3'>About Us</h2>
                 <p>We provide 24x7 chat supports through chat bots, WhatsApp mobile number and in Social Media profiles. Users can also contact us with their details and issues through email ids or can contact us in our mentioned contact us section. The game itself has the smart and attractive avatars both male and female version which makes the playing board more attractive. The recently updated themes are not only attractive but also customized for all types of screens and platforms.</p>
                 <p>Rummy Boom is Indian's one of the most trusting and fastest growing online cash rummy App with 100000 online users both in web and mobile platforms. Once users register in RuzRummy online platform or in the app, users can feel the real rummy playing experiences, where users will play with their playing abilities and strategies. User will get welcome bonus and also gifts while playing the game. Master Rummy special deals and offers will sure attract and engage the users with real money rummy playing experiences.
@@ -134,7 +134,7 @@ export const About: React.FC = () => {
       </div>
       <div className="border-top border-bottom position-relative"
         style={{
-          backgroundImage: "url(./public/images/10016606_27269.webp)",
+          backgroundImage: "url(./images/10016606_27269.webp)",
           backgroundRepeat: "no-repeat",
           backgroundPosition: "center",
           backgroundAttachment: "fixed",
@@ -148,7 +148,7 @@ export const About: React.FC = () => {
 
         >
 
-          <img src='./public/images/poker-coin.png' className='img-fluid bg-coins-1' />
+          <img src='./images/poker-coin.png' className='img-fluid bg-coins-1' />
 
         </SimpleParallax>
         <SimpleParallax
@@ -157,7 +157,7 @@ export const About: React.FC = () => {
           transition='cubic-bezier(0.4, 0.2, 0.2, 1)'
 
         >
-          <img src='./public/images/casino_chips_107.png' className='img-fluid bg-coins-2' />
+          <img src='./images/casino_chips_107.png' className='img-fluid bg-coins-2' />
         </SimpleParallax>
         <div className='container mt-5'>
           <div className="row">
@@ -169,7 +169,7 @@ export const About: React.FC = () => {
             <div className="col-md-3">
               <div className="games-card">
                 <div className="game-icon mb-3">
-                  <img src='./public/images/game-1.webp' />
+                  <img src='./images/game-1.webp' />
                 </div>
                 <div className="game-content">
                   <h3>100% Safe and Secure</h3>
@@ -184,7 +184,7 @@ export const About: React.FC = () => {
             <div className="col-md-3 mb-2">
               <div className="games-card">
                 <div className="game-icon mb-3">
-                  <img src='./public/images/game-2.webp' />
+                  <img src='./images/game-2.webp' />
                 </div>
                 <div className="game-content">
                   <h3>The Great Rummy Experience</h3>
@@ -199,7 +199,7 @@ export const About: React.FC = () => {
             <div className="col-md-3 mb-2">
               <div className="games-card">
                 <div className="game-icon mb-3">
-                  <img src='./public/images/game-5.webp' />
+                  <img src='./images/game-5.webp' />
                 </div>
                 <div className="game-content">
                   <h3>Best Rewards & Services</h3>
@@ -214,7 +214,7 @@ export const About: React.FC = () => {
             <div className="col-md-3 mb-2">
               <div className="games-card ">
                 <div className="game-icon mb-3">
-                  <img src='./public/images/game-6.webp' />
+                  <img src='./images/game-6.webp' />
                 </div>
                 <div className="game-content">
                   <h3>Fastest Withdrawals</h3>

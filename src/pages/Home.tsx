@@ -93,7 +93,7 @@ export const Home: React.FC = () => {
       {/* Key Features Section */}
       <div className="border-top border-bottom position-relative"
         style={{
-          backgroundImage: "url(./public/images/10016606_27269.webp)",
+          backgroundImage: "url(./images/10016606_27269.webp)",
           backgroundRepeat: "no-repeat",
           backgroundPosition: "center",
           backgroundAttachment: "fixed",

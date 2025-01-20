@@ -15,7 +15,7 @@ export const GameInstrctions: React.FC = ()  =>{
 
         >
 
-          <img src='./public/images/poker-coin.png' className='img-fluid bg-coins-1' />
+          <img src='./images/poker-coin.png' className='img-fluid bg-coins-1' />
 
         </SimpleParallax>
         <SimpleParallax
@@ -24,14 +24,14 @@ export const GameInstrctions: React.FC = ()  =>{
           transition='cubic-bezier(0.4, 0.2, 0.2, 1)' 
 
         >
-          <img src='./public/images/casino_chips_107.png' className='img-fluid bg-coins-2' />
+          <img src='./images/casino_chips_107.png' className='img-fluid bg-coins-2' />
         </SimpleParallax>
             <div className="col-md-6 col-sm-12 px-5">
               <div className="parallax-container">
                 <SimpleParallax
                   scale={1.7}
                 >
-                  <img src="./public/images/side-img.webp" alt="Content" className="content img-fluid"
+                  <img src="./images/side-img.webp" alt="Content" className="content img-fluid"
                   />
 
                 </SimpleParallax>

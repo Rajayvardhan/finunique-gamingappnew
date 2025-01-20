@@ -3,7 +3,7 @@ import React from 'react';
 export const Terms: React.FC = () => {
   return (
     <>
-      <div className='privacypolicy_section' style={{ backgroundImage: "url('./public/images/SL-5.webp')", backgroundSize: "cover", backgroundPosition: "center", alignContent: "center", backgroundAttachment: "fixed", height: "50vh" }}>
+      <div className='privacypolicy_section' style={{ backgroundImage: "url('./images/SL-5.webp')", backgroundSize: "cover", backgroundPosition: "center", alignContent: "center", backgroundAttachment: "fixed", height: "50vh" }}>
         <div className='container'>
           <div className='row pt-3'>
             <div className='col-md-12 align-self-center'>

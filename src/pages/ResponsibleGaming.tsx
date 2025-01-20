@@ -19,7 +19,7 @@ export const ResponsibleGaming: React.FC = () => {
         <div className="row">
         <div className="col-md-12">
           <div className="clearfix">
-            <img src="./public/images/card-bg.webp" className="img-fluid col-md-6 float-md-end mb-3 ms-md-3 img-width" alt="policy img" />
+            <img src="./images/card-bg.webp" className="img-fluid col-md-6 float-md-end mb-3 ms-md-3 img-width" alt="policy img" />
             <h2 className='my-3'>Responsible Gaming</h2>
             <p>
               We operate as a responsible gaming company and encourage our players to play responsibly. We carefully monitor the playing activities of our players and alert them if they develop any compulsive behavior. We take precautionary measures including the following to make sure that we offer a good online rummy gaming experience.

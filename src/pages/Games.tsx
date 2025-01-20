@@ -6,13 +6,13 @@ export const Games: React.FC = () => {
     <div>
       {/* Games Banner */}
       <div className="bg-primary text-white py-5 upper-bg"
-        style={{ backgroundImage: "url('./public/images/card-bg.webp')", backgroundSize: "cover", backgroundPosition: "center", alignContent: "center", backgroundAttachment: "fixed" }}
+        style={{ backgroundImage: "url('./images/card-bg.webp')", backgroundSize: "cover", backgroundPosition: "center", alignContent: "center", backgroundAttachment: "fixed" }}
       >
         <div className="container">
           <div className="row g-0">
             <div className="col-md-6 col-sm-12 px-2 mb-2">
               <div className="side_game_img p-5 pb-1">
-                <img src='./public/images/jackpot.webp' className='img-fluid' style={{ borderRadius: "14px", transition: "transform 0.5s ease-in-out" }} />
+                <img src='./images/jackpot.webp' className='img-fluid' style={{ borderRadius: "14px", transition: "transform 0.5s ease-in-out" }} />
               </div>
             </div>
             <div className="col-md-6 col-sm-12 px-2 mb-2">
@@ -40,7 +40,7 @@ export const Games: React.FC = () => {
             <div className="col-md-4 mb-3 px-2">
               <div className="games-cards">
                 <div className="game-card-img">
-                  <img src='./public/images/SL-2.webp' alt='poker' className='img-fluid rounded-4' style={{ transition: "transform 0.5s ease-in-out" }} />
+                  <img src='./images/SL-2.webp' alt='poker' className='img-fluid rounded-4' style={{ transition: "transform 0.5s ease-in-out" }} />
                 </div>
                 <div className="game-body d-flex justify-content-between py-4">
                   <div className="game-name">
@@ -56,7 +56,7 @@ export const Games: React.FC = () => {
             <div className="col-md-4 mb-3 px-2">
               <div className="games-cards">
                 <div className="game-card-img">
-                  <img src='./public/images/SL-11.webp' alt='poker' className='img-fluid rounded-4' style={{ transition: "transform 0.5s ease-in-out" }} />
+                  <img src='./images/SL-11.webp' alt='poker' className='img-fluid rounded-4' style={{ transition: "transform 0.5s ease-in-out" }} />
                 </div>
                 <div className="game-body d-flex justify-content-between py-4">
                   <div className="game-name">
@@ -72,7 +72,7 @@ export const Games: React.FC = () => {
             <div className="col-md-4 mb-3 px-2">
               <div className="games-cards">
                 <div className="game-card-img">
-                  <img src='./public/images/casino-card.webp' alt='poker' className='img-fluid rounded-4' style={{ transition: "transform 0.5s ease-in-out" }} />
+                  <img src='./images/casino-card.webp' alt='poker' className='img-fluid rounded-4' style={{ transition: "transform 0.5s ease-in-out" }} />
                 </div>
                 <div className="game-body d-flex justify-content-between py-4">
                   <div className="game-name">
@@ -102,9 +102,9 @@ export const Games: React.FC = () => {
                 <div className="marquee">
                   <Marquee speed={50} style={{ animationDuration: `${50}s` }}>
                     <h1>jackpot casino games</h1>
-                    <img src='./public/images/rummy.webp' style={{ margin: "0px 48px", transition: "transform 0.5s ease-in-out" }} />
+                    <img src='./images/rummy.webp' style={{ margin: "0px 48px", transition: "transform 0.5s ease-in-out" }} />
                     <h1>jackpot casino games</h1>
-                    <img src='./public/images/rummy.webp' style={{ margin: "0px 48px", transition: "transform 0.5s ease-in-out" }} />
+                    <img src='./images/rummy.webp' style={{ margin: "0px 48px", transition: "transform 0.5s ease-in-out" }} />
 
                   </Marquee>
                 </div>
@@ -143,7 +143,7 @@ export const Games: React.FC = () => {
                   <SimpleParallax
                     scale={1.7}
                   >
-                    <img src='./public/images/card-bg2.webp' className='img-fluid' style={{ transition: "transform 0.5s ease-in-out", borderRadius: "14px", boxShadow: "rgba(0, 0, 0, 0.35) 0px 5px 15px", backdropFilter: "blur(4px)", }} />
+                    <img src='./images/card-bg2.webp' className='img-fluid' style={{ transition: "transform 0.5s ease-in-out", borderRadius: "14px", boxShadow: "rgba(0, 0, 0, 0.35) 0px 5px 15px", backdropFilter: "blur(4px)", }} />
                   </SimpleParallax>
                 </div>
               </div>
