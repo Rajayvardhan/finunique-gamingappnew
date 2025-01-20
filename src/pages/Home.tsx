@@ -108,7 +108,7 @@ export const Home: React.FC = () => {
 
         >
 
-          <img src='./public/images/poker-coin.png' className='img-fluid bg-coins-1' />
+          <img src='./images/poker-coin.png' className='img-fluid bg-coins-1' />
 
         </SimpleParallax>
         <SimpleParallax
@@ -117,7 +117,7 @@ export const Home: React.FC = () => {
           transition='cubic-bezier(0.4, 0.2, 0.2, 1)' 
 
         >
-          <img src='./public/images/casino_chips_107.png' className='img-fluid bg-coins-2' />
+          <img src='./images/casino_chips_107.png' className='img-fluid bg-coins-2' />
         </SimpleParallax>
         <div className="container">
           <div className="row py-5">
@@ -129,7 +129,7 @@ export const Home: React.FC = () => {
             <div className="col-md-3">
               <div className="games-card">
                 <div className="game-icon mb-3">
-                  <img src='./public/images/game-1.webp' />
+                  <img src='./images/game-1.webp' />
                 </div>
                 <div className="game-content">
                   <h3>Secure Gaming</h3>
@@ -145,7 +145,7 @@ export const Home: React.FC = () => {
             <div className="col-md-3 mb-2">
               <div className="games-card">
                 <div className="game-icon mb-3">
-                  <img src='./public/images/game-2.webp' />
+                  <img src='./images/game-2.webp' />
                 </div>
                 <div className="game-content">
                   <h3>24/7 Support</h3>
@@ -160,7 +160,7 @@ export const Home: React.FC = () => {
             <div className="col-md-3 mb-2">
               <div className="games-card">
                 <div className="game-icon mb-3">
-                  <img src='./public/images/game-5.webp' />
+                  <img src='./images/game-5.webp' />
                 </div>
                 <div className="game-content">
                   <h3>Multiple Variants</h3>
@@ -175,7 +175,7 @@ export const Home: React.FC = () => {
             <div className="col-md-3 mb-2">
               <div className="games-card ">
                 <div className="game-icon mb-3">
-                  <img src='./public/images/game-6.webp' />
+                  <img src='./images/game-6.webp' />
                 </div>
                 <div className="game-content">
                   <h3>Instant Withdrawals</h3>

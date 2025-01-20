@@ -92,7 +92,7 @@ export const GameInstrctions: React.FC = ()  =>{
 
         >
 
-          <img src='./public/images/poker-coin.png' className='img-fluid bg-coins-1' />
+          <img src='./images/poker-coin.png' className='img-fluid bg-coins-1' />
 
         </SimpleParallax>
         <SimpleParallax
@@ -101,7 +101,7 @@ export const GameInstrctions: React.FC = ()  =>{
           transition='cubic-bezier(0.4, 0.2, 0.2, 1)' 
 
         >
-          <img src='./public/images/casino_chips_107.png' className='img-fluid bg-coins-2' />
+          <img src='./images/casino_chips_107.png' className='img-fluid bg-coins-2' />
         </SimpleParallax>
             <div className="col-md-6 px-3 col-sm-12">
               <h2 className="h2 mb-4">How to Get Started</h2>
@@ -148,7 +148,7 @@ export const GameInstrctions: React.FC = ()  =>{
                   orientation="right"
                   scale={1.7}
                 >
-                  <img src="./public/images/SL-5.webp" alt="Content" className="content img-fluid"
+                  <img src="./images/SL-5.webp" alt="Content" className="content img-fluid"
                     data-aos="fade-up"
                     style={{
                       transform: "translate(-50%, 50%)",
