@@ -65,7 +65,7 @@ export const Footer: React.FC = () => {
           </div> */}
           <div className="col-md-2 px-3">
             <div className="logo_section">
-              <img src="./public/images/logo.jpg" alt="Finunique Logo" height="64" className="mb-3" />
+              <img src="./images/logo.jpg" alt="Finunique Logo" height="64" className="mb-3" />
             </div>
           </div>
           <div className="col-md-4 px-3">
