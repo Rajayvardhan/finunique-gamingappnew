@@ -37,7 +37,7 @@ export const Home: React.FC = () => {
 
                       </Link>
                     </div>
-                    <div className="sc_services_item_text"><p>Mauris eu nisi eget nisi imperdiet vestibulum. Nunc sodales vehicula risus. Suspendisse id mauris sodales, blandit tortor eu, sodales justo. Morbi tincidunt, ante vel suscipit volutpat, turpis enim volutpSectetur adipiscing…</p>
+                    <div className="sc_services_item_text"><p>Experience the thrill of classic casino games in an elegant and immersive environment. Welcome to a world of excitement, where every spin, deal, and roll brings you closer to unforgettable wins</p>
                     </div>
                   </div>
                 </div>
@@ -57,7 +57,7 @@ export const Home: React.FC = () => {
 
                       </Link>
                     </div>
-                    <div className="sc_services_item_text"><p>Mauris eu nisi eget nisi imperdiet vestibulum. Nunc sodales vehicula risus. Suspendisse id mauris sodales, blandit tortor eu, sodales justo. Morbi tincidunt, ante vel suscipit volutpat, turpis enim volutpSectetur adipiscing…</p>
+                    <div className="sc_services_item_text"><p>You can enjoy your favorite games with us</p>
                     </div>
                   </div>
                 </div>
@@ -77,7 +77,7 @@ export const Home: React.FC = () => {
 
                       </Link>
                     </div>
-                    <div className="sc_services_item_text"><p>Mauris eu nisi eget nisi imperdiet vestibulum. Nunc sodales vehicula risus. Suspendisse id mauris sodales, blandit tortor eu, sodales justo. Morbi tincidunt, ante vel suscipit volutpat, turpis enim volutpSectetur adipiscing…</p>
+                    <div className="sc_services_item_text"><p>Experience the thrill of classic casino games in an elegant and immersive environment. Welcome to a world of excitement, where every spin, deal, and roll brings you closer to unforgettable wins</p>
                     </div>
                   </div>
                 </div>

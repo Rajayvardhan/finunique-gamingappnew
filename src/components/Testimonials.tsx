@@ -68,12 +68,12 @@ export const Testimonials: React.FC = () => {
                                         <i className="bi bi-star-fill"></i>
                                         <i className="bi bi-star-half"></i>
                                     </div>
-                                    <div className="user-comment">
-                                        <p>Adipiscing elit, sed do eiusmod tempor incididunt labore dolore.</p>
+                                    <div className="user-comment"> 
+                                        <p>I’m in Vegas from the comfort of my home. Incredible app!"</p>
                                     </div>
                                     <div className="comment-author">
                                         <div className="author-name">
-                                            <p>John Lewis</p>
+                                            <p>Sonu</p>
                                         </div>
                                         <div className="author-title">
                                             <p>Player</p>
@@ -93,11 +93,11 @@ export const Testimonials: React.FC = () => {
                                         <i className="bi bi-star-half"></i>
                                     </div>
                                     <div className="user-comment">
-                                        <p>Adipiscing elit, sed do eiusmod tempor incididunt labore dolore.</p>
+                                        <p>"Amazing experience!  It truly feels like being in a real casino. Highly recommend it!".</p>
                                     </div>
                                     <div className="comment-author">
                                         <div className="author-name">
-                                            <p>John Lewis</p>
+                                            <p>Shivam</p>
                                         </div>
                                         <div className="author-title">
                                             <p>Player</p>
@@ -117,11 +117,11 @@ export const Testimonials: React.FC = () => {
                                         <i className="bi bi-star-half"></i>
                                     </div>
                                     <div className="user-comment">
-                                        <p>Adipiscing elit, sed do eiusmod tempor incididunt labore dolore.</p>
+                                        <p>I love the variety of games available. Whether it’s poker, blackjack, or slots.</p>
                                     </div>
                                     <div className="comment-author">
                                         <div className="author-name">
-                                            <p>John Lewis</p>
+                                            <p>Rinku Yadav</p>
                                         </div>
                                         <div className="author-title">
                                             <p>Player</p>
@@ -141,11 +141,11 @@ export const Testimonials: React.FC = () => {
                                         <i className="bi bi-star-half"></i>
                                     </div>
                                     <div className="user-comment">
-                                        <p>Adipiscing elit, sed do eiusmod tempor incididunt labore dolore.</p>
+                                        <p>the customer support is excellent. I had an issue with a transaction, and they resolved it quickly.</p>
                                     </div>
                                     <div className="comment-author">
                                         <div className="author-name">
-                                            <p>John Lewis</p>
+                                            <p>Sunil Sharma</p>
                                         </div>
                                         <div className="author-title">
                                             <p>Player</p>
@@ -165,11 +165,13 @@ export const Testimonials: React.FC = () => {
                                         <i className="bi bi-star-half"></i>
                                     </div>
                                     <div className="user-comment">
-                                        <p>Adipiscing elit, sed do eiusmod tempor incididunt labore dolore.</p>
+                                        <p>This casino app is addictive in the way possible.and the competition keeps it exciting!"
+
+</p>
                                     </div>
                                     <div className="comment-author">
                                         <div className="author-name">
-                                            <p>John Lewis</p>
+                                            <p>Virat</p>
                                         </div>
                                         <div className="author-title">
                                             <p>Player</p>
@@ -189,11 +191,11 @@ export const Testimonials: React.FC = () => {
                                         <i className="bi bi-star-half"></i>
                                     </div>
                                     <div className="user-comment">
-                                        <p>Adipiscing elit, sed do eiusmod tempor incididunt labore dolore.</p>
+                                        <p>"I’ve tried many casino apps, but this one stands out for its realistic gameplay and fair chances of winning.</p>
                                     </div>
                                     <div className="comment-author">
                                         <div className="author-name">
-                                            <p>John Lewis</p>
+                                            <p>Harsh</p>
                                         </div>
                                         <div className="author-title">
                                             <p>Player</p>
@@ -213,11 +215,11 @@ export const Testimonials: React.FC = () => {
                                         <i className="bi bi-star-half"></i>
                                     </div>
                                     <div className="user-comment">
-                                        <p>Adipiscing elit, sed do eiusmod tempor incididunt labore dolore.</p>
+                                        <p>I’ve won so many free spins, and the daily challenges keep me coming back every day."</p>
                                     </div>
                                     <div className="comment-author">
                                         <div className="author-name">
-                                            <p>John Lewis</p>
+                                            <p>Mukul</p>
                                         </div>
                                         <div className="author-title">
                                             <p>Player</p>
@@ -237,11 +239,11 @@ export const Testimonials: React.FC = () => {
                                         <i className="bi bi-star-half"></i>
                                     </div>
                                     <div className="user-comment">
-                                        <p>Adipiscing elit, sed do eiusmod tempor incididunt labore dolore.</p>
+                                        <p>The rewards and bonuses are fantastic! </p>
                                     </div>
                                     <div className="comment-author">
                                         <div className="author-name">
-                                            <p>John Lewis</p>
+                                            <p>Rohit</p>
                                         </div>
                                         <div className="author-title">
                                             <p>Player</p>
